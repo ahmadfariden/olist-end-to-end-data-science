@@ -1,0 +1,9 @@
+{
+  "model_name": "Logistic Regression",
+  "top_n_percent": 5,
+  "threshold_value": 0.5970663308248289,
+  "computed_from": "test_set",
+  "test_set_size": 10948,
+  "test_set_precision_at_threshold": 0.043875685557586835,
+  "test_set_lift_at_threshold": 3.611661695371885
+}
